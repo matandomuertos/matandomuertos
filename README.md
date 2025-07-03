@@ -1,6 +1,6 @@
 ### Hi, I'm Nahuel! 👋
 
--   :computer: Working as **Principal Infrastructure/DevOps Engineer** at **Jamf**
+-   :computer: Working as **Staff Infrastructure/DevOps Engineer** at **Fandom**
 -   :monocle_face: Interested in **Infrastructure** and **Cloud Architecture**
 -   :round_pushpin: Located in **Poland** :poland:
   
